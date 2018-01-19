@@ -1,0 +1,16 @@
+@startuml
+center header
+<font color=blue>Hi There</font>
+endheader
+
+title
+Title //Oh Boy! Here we GO!//
+Date : %date[yyyy.MM.dd 'at' HH:mm]%
+end title
+
+center footer
+This is where I put
+the footer
+endfooter
+
+@enduml
