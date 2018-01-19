@@ -1,0 +1,8 @@
+@startuml
+
+'Yeah, I made up the file extensions
+!include common_stuff.iuml
+
+Brian -> Brian : Hello!
+
+@enduml
